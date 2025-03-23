@@ -1,0 +1,2 @@
+print('dikc')
+print('dikc')
